@@ -77,9 +77,9 @@ for power in powers:
 ---
 
 ## 📷 Screenshot
-![Application Screenshot]()
+![Application Screenshot](Pokémon-Training-Game/screenshot1.png)
 
-![Application Screenshot]()
+![Application Screenshot](Pokémon-Training-Game/screenshot2.png)
 
 ---
 
